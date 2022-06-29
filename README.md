@@ -1,0 +1,1 @@
+This repository is a place to host static resources for http://soulsmodding.wikidot.com/ - anything which would be useful to add as a reference there, but is either too long or too complex to format in wiki syntax. These are not meant to be used as assets for code or tools. If you have any questions or suggestions, contact resource maintainers!

@@ -1093,8 +1093,8 @@ m01_02_50_00 Enemy c3020_0049 npc:30200299 think:30200203 id:322 group:5900,5901
 m01_02_50_00 Enemy c3150_0000 (Juggernaut) npc:31501000 think:31501011 id:801 hp:63985 points:3000
 m01_02_50_00 Enemy c3150_0002 (Juggernaut) npc:31500000 think:31501010 id:800 hp:63985 points:3000 [HA-T-102 JUGGERNAUT]
 m01_02_50_00 Enemy c3400_0005 npc:34001104 think:34001109 id:810 group:5900,5902 hp:13370 points:1250
-m01_02_50_00 Enemy c5100_0000 (RLF Helicopter) npc:51001002 think:51000000 id:711 group:5700,5713,5900,5902 hp:750
-m01_02_50_00 Enemy c5100_0001 (RLF Helicopter) npc:51001002 think:51000000 id:710 group:5700,5713,5900,5902 hp:750
+m01_02_50_00 Enemy c5100_0000 (Quadcopter) npc:51001002 think:51000000 id:711 group:5700,5713,5900,5902 hp:750
+m01_02_50_00 Enemy c5100_0001 (Quadcopter) npc:51001002 think:51000000 id:710 group:5700,5713,5900,5902 hp:750
 m01_02_50_00 Enemy c7240_0000 npc:72402000 think:72401003 id:551 group:5802,5900,5902 hp:269 points:100
 m01_02_50_00 Enemy c7240_0001 npc:72402000 think:72401003 id:550 group:5802,5900,5902 hp:269 points:100
 m01_02_50_00 Enemy c7240_0002 npc:72402000 think:72401003 group:5900,5902 hp:269 points:100
@@ -1226,13 +1226,13 @@ m01_02_80_00 Enemy c3020_0038 npc:30201108 think:30201102 id:933 group:5410,5420
 m01_02_80_00 Enemy c3020_0039 npc:30201108 think:30201102 id:934 group:5410,5420,5900,5800 hp:470 points:100
 m01_02_80_00 Enemy c3020_0040 npc:30201422 think:30201400 id:920 group:5900,5800 hp:470 points:100
 m01_02_80_00 Enemy c3400_0000 npc:34001102 think:34000100 id:850 group:5800 hp:13370 points:1250
-m01_02_80_00 Enemy c5100_0000 (RLF Helicopter) npc:51001000 think:51001002 id:700 hp:3000 [RLF HELICOPTER]
-m01_02_80_00 Enemy c5100_0001 (RLF Helicopter) npc:51001003 think:51000000 id:200 group:5200 hp:750 points:250
-m01_02_80_00 Enemy c5100_0002 (RLF Helicopter) npc:51000000 think:51000000 id:600 group:5600,5610 hp:750 points:250
-m01_02_80_00 Enemy c5100_0003 (RLF Helicopter) npc:51001003 think:51000000 id:210 group:5200 hp:750 points:250
-m01_02_80_00 Enemy c5100_0004 (RLF Helicopter) npc:51000000 think:51000000 id:601 group:5600,5611 hp:750 points:250
-m01_02_80_00 Enemy c5100_0005 (RLF Helicopter) npc:51000000 think:51000000 id:602 group:5600,5612 hp:750 points:250
-m01_02_80_00 Enemy c5100_0006 (RLF Helicopter) npc:51000000 think:51000000 id:400 group:5410 hp:750 points:250
+m01_02_80_00 Enemy c5100_0000 (Quadcopter) npc:51001000 think:51001002 id:700 hp:3000 [RLF HELICOPTER]
+m01_02_80_00 Enemy c5100_0001 (Quadcopter) npc:51001003 think:51000000 id:200 group:5200 hp:750 points:250
+m01_02_80_00 Enemy c5100_0002 (Quadcopter) npc:51000000 think:51000000 id:600 group:5600,5610 hp:750 points:250
+m01_02_80_00 Enemy c5100_0003 (Quadcopter) npc:51001003 think:51000000 id:210 group:5200 hp:750 points:250
+m01_02_80_00 Enemy c5100_0004 (Quadcopter) npc:51000000 think:51000000 id:601 group:5600,5611 hp:750 points:250
+m01_02_80_00 Enemy c5100_0005 (Quadcopter) npc:51000000 think:51000000 id:602 group:5600,5612 hp:750 points:250
+m01_02_80_00 Enemy c5100_0006 (Quadcopter) npc:51000000 think:51000000 id:400 group:5410 hp:750 points:250
 m01_02_80_00 Enemy c5101_0002 npc:51011001 think:51011001 group:5700 hp:11200
 m01_02_80_00 Enemy c5101_0003 npc:51011001 think:51011001 group:5700 hp:11200
 m01_02_80_00 Enemy c5120_0000 npc:51200091 think:51200000 id:300 group:5301,5500 hp:302 points:250
@@ -1616,10 +1616,10 @@ m01_04_00_00 Enemy c3250_0001 (Light Cavalry 1) npc:32501004 think:32500001 id:3
 m01_04_00_00 Enemy c3250_0002 (Light Cavalry 1) npc:32500400 think:32501400 group:5423,5210,5600,5900 hp:1075 points:250
 m01_04_00_00 Enemy c3250_0003 (Light Cavalry 1) npc:32501416 think:32501408 group:5420,5900 hp:1075 points:250
 m01_04_00_00 Enemy c3250_0004 (Light Cavalry 1) npc:32501416 think:32501408 hp:1075 points:250
-m01_04_00_00 Enemy c5100_0000 (RLF Helicopter) npc:51000101 think:51000102 group:5220 hp:750 points:250
-m01_04_00_00 Enemy c5100_0001 (RLF Helicopter) npc:51000101 think:51000102 group:5220 hp:750 points:250
-m01_04_00_00 Enemy c5100_0002 (RLF Helicopter) npc:51000101 think:51000102 group:5600 hp:750 points:250
-m01_04_00_00 Enemy c5100_0003 (RLF Helicopter) npc:51000101 think:51000102 group:5600 hp:750 points:250
+m01_04_00_00 Enemy c5100_0000 (Quadcopter) npc:51000101 think:51000102 group:5220 hp:750 points:250
+m01_04_00_00 Enemy c5100_0001 (Quadcopter) npc:51000101 think:51000102 group:5220 hp:750 points:250
+m01_04_00_00 Enemy c5100_0002 (Quadcopter) npc:51000101 think:51000102 group:5600 hp:750 points:250
+m01_04_00_00 Enemy c5100_0003 (Quadcopter) npc:51000101 think:51000102 group:5600 hp:750 points:250
 m01_04_00_00 Enemy c5120_0000 npc:51200180 think:51200013 hp:302 points:250
 m01_04_00_00 Enemy c5120_0001 npc:51200180 think:51200013 hp:302 points:250
 m01_04_00_00 Enemy c5120_0002 npc:51200180 think:51200013 hp:302 points:250
@@ -1685,42 +1685,42 @@ m01_04_10_00 Enemy c3250_0000 (Light Cavalry 1) npc:32501414 think:32501416 id:3
 m01_04_10_00 Enemy c3250_0001 (Light Cavalry 1) npc:32500401 think:32501422 id:540 hp:1075 points:250
 m01_04_10_00 Enemy c3250_0002 (Light Cavalry 1) npc:32500401 think:32501422 id:541 hp:1075 points:250
 m01_04_10_00 Enemy c3250_0006 (Light Cavalry 1) npc:32501414 think:32501416 id:230 group:5211,5220 hp:1075 points:250
-m01_04_10_00 Enemy c5100_0003 (RLF Helicopter) npc:51001110 think:51001003 id:303 group:5300,5320 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0004 (RLF Helicopter) npc:51001110 think:51001003 id:304 group:5300,5320 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0005 (RLF Helicopter) npc:51001110 think:51001003 id:305 group:5300,5320 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0006 (RLF Helicopter) npc:51001110 think:51001003 id:306 group:5300,5320 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0013 (RLF Helicopter) npc:51001110 think:51001003 id:210 group:5205,5220 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0015 (RLF Helicopter) npc:51001110 think:51001003 id:211 group:5205,5220 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0016 (RLF Helicopter) npc:51001112 think:51000000 id:410 group:5410,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0018 (RLF Helicopter) npc:51001112 think:51000000 id:411 group:5410,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0019 (RLF Helicopter) npc:51001110 think:51001003 id:200 group:5205,5204,5220 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0020 (RLF Helicopter) npc:51001110 think:51001003 id:201 group:5205,5206,5204,5220 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0021 (RLF Helicopter) npc:51001110 think:51001003 id:308 group:5300,5320 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0022 (RLF Helicopter) npc:51001110 think:51001003 id:202 group:5205,5206,5204,5220 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0023 (RLF Helicopter) npc:51001111 think:51000000 id:464 group:5461,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0024 (RLF Helicopter) npc:51001112 think:51000000 id:461 group:5460,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0025 (RLF Helicopter) npc:51001111 think:51000000 id:421 group:5420,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0026 (RLF Helicopter) npc:51001112 think:51000000 id:460 group:5460,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0027 (RLF Helicopter) npc:51001111 think:51000000 id:420 group:5421,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0028 (RLF Helicopter) npc:51001112 think:51000000 id:430 group:5431,5400,5430 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0029 (RLF Helicopter) npc:51001110 think:51001003 id:205 group:5205,5204,5220 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0030 (RLF Helicopter) npc:51001110 think:51001003 id:309 group:5300,5320 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0044 (RLF Helicopter) npc:51001112 think:51000000 id:431 group:5431,5400,5430 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0046 (RLF Helicopter) npc:51001111 think:51000000 id:441 group:5434,5400,5430 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0057 (RLF Helicopter) npc:51001111 think:51000000 id:465 group:5461,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0058 (RLF Helicopter) npc:51001111 think:51000000 id:468 group:5461,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0059 (RLF Helicopter) npc:51001112 think:51000000 id:450 group:5440,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0061 (RLF Helicopter) npc:51001111 think:51000000 id:466 group:5461,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0063 (RLF Helicopter) npc:51001112 think:51000000 id:451 group:5440,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0065 (RLF Helicopter) npc:51001111 think:51000000 id:440 group:5433,5400,5430 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0066 (RLF Helicopter) npc:51001111 think:51000000 id:467 group:5461,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0068 (RLF Helicopter) npc:51001111 think:51000000 id:452 group:5441,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0069 (RLF Helicopter) npc:51001111 think:51000000 id:463 group:5460,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0070 (RLF Helicopter) npc:51001111 think:51000000 id:453 group:5442,5400 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0071 (RLF Helicopter) npc:51001111 think:51000000 id:462 group:5460,5400,5465 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0076 (RLF Helicopter) npc:51001112 think:51000000 id:433 group:5432,5400,5430 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0077 (RLF Helicopter) npc:51001112 think:51000000 id:434 group:5432,5400,5430 hp:750 points:10000
-m01_04_10_00 Enemy c5100_0078 (RLF Helicopter) npc:51001112 think:51000000 id:432 group:5432,5400,5430 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0003 (Quadcopter) npc:51001110 think:51001003 id:303 group:5300,5320 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0004 (Quadcopter) npc:51001110 think:51001003 id:304 group:5300,5320 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0005 (Quadcopter) npc:51001110 think:51001003 id:305 group:5300,5320 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0006 (Quadcopter) npc:51001110 think:51001003 id:306 group:5300,5320 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0013 (Quadcopter) npc:51001110 think:51001003 id:210 group:5205,5220 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0015 (Quadcopter) npc:51001110 think:51001003 id:211 group:5205,5220 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0016 (Quadcopter) npc:51001112 think:51000000 id:410 group:5410,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0018 (Quadcopter) npc:51001112 think:51000000 id:411 group:5410,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0019 (Quadcopter) npc:51001110 think:51001003 id:200 group:5205,5204,5220 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0020 (Quadcopter) npc:51001110 think:51001003 id:201 group:5205,5206,5204,5220 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0021 (Quadcopter) npc:51001110 think:51001003 id:308 group:5300,5320 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0022 (Quadcopter) npc:51001110 think:51001003 id:202 group:5205,5206,5204,5220 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0023 (Quadcopter) npc:51001111 think:51000000 id:464 group:5461,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0024 (Quadcopter) npc:51001112 think:51000000 id:461 group:5460,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0025 (Quadcopter) npc:51001111 think:51000000 id:421 group:5420,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0026 (Quadcopter) npc:51001112 think:51000000 id:460 group:5460,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0027 (Quadcopter) npc:51001111 think:51000000 id:420 group:5421,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0028 (Quadcopter) npc:51001112 think:51000000 id:430 group:5431,5400,5430 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0029 (Quadcopter) npc:51001110 think:51001003 id:205 group:5205,5204,5220 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0030 (Quadcopter) npc:51001110 think:51001003 id:309 group:5300,5320 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0044 (Quadcopter) npc:51001112 think:51000000 id:431 group:5431,5400,5430 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0046 (Quadcopter) npc:51001111 think:51000000 id:441 group:5434,5400,5430 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0057 (Quadcopter) npc:51001111 think:51000000 id:465 group:5461,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0058 (Quadcopter) npc:51001111 think:51000000 id:468 group:5461,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0059 (Quadcopter) npc:51001112 think:51000000 id:450 group:5440,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0061 (Quadcopter) npc:51001111 think:51000000 id:466 group:5461,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0063 (Quadcopter) npc:51001112 think:51000000 id:451 group:5440,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0065 (Quadcopter) npc:51001111 think:51000000 id:440 group:5433,5400,5430 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0066 (Quadcopter) npc:51001111 think:51000000 id:467 group:5461,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0068 (Quadcopter) npc:51001111 think:51000000 id:452 group:5441,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0069 (Quadcopter) npc:51001111 think:51000000 id:463 group:5460,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0070 (Quadcopter) npc:51001111 think:51000000 id:453 group:5442,5400 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0071 (Quadcopter) npc:51001111 think:51000000 id:462 group:5460,5400,5465 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0076 (Quadcopter) npc:51001112 think:51000000 id:433 group:5432,5400,5430 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0077 (Quadcopter) npc:51001112 think:51000000 id:434 group:5432,5400,5430 hp:750 points:10000
+m01_04_10_00 Enemy c5100_0078 (Quadcopter) npc:51001112 think:51000000 id:432 group:5432,5400,5430 hp:750 points:10000
 m01_04_10_00 Enemy c5120_0006 npc:51200100 think:51201119 group:5212,5220 hp:302 points:250
 m01_04_10_00 Enemy c5120_0007 npc:51200100 think:51201119 group:5212,5220 hp:302 points:250
 m01_04_10_00 Enemy c5120_0008 npc:51200380 think:51200012 id:351 group:5311,5320,5330 hp:302 points:250
@@ -1734,44 +1734,44 @@ m01_04_10_00 Collision h000000_0000
 m01_04_10_00 DummyEnemy c3000_0000 group:5207,5220
 m01_04_10_00 DummyEnemy c3000_0001 group:5207,5220
 m01_04_10_00 DummyEnemy c3050_0002 id:222 group:5210,5220
-m01_04_10_00 DummyEnemy c5100_0000 (RLF Helicopter) id:300 group:5300,5320
-m01_04_10_00 DummyEnemy c5100_0001 (RLF Helicopter) id:301 group:5300,5320
-m01_04_10_00 DummyEnemy c5100_0002 (RLF Helicopter) id:302 group:5300,5320
-m01_04_10_00 DummyEnemy c5100_0007 (RLF Helicopter) id:307 group:5300,5320
-m01_04_10_00 DummyEnemy c5100_0008 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0009 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0010 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0011 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0012 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0014 (RLF Helicopter) id:310 group:5300,5320
-m01_04_10_00 DummyEnemy c5100_0017 (RLF Helicopter) id:468 group:5461,5400,5465
-m01_04_10_00 DummyEnemy c5100_0031 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0032 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0033 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0034 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0035 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0036 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0037 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0038 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0039 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0040 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0041 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0042 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0043 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0045 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0047 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0048 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0049 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0050 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0051 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0052 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0053 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0054 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0055 (RLF Helicopter)
-m01_04_10_00 DummyEnemy c5100_0060 (RLF Helicopter) id:466 group:5461,5400,5465
-m01_04_10_00 DummyEnemy c5100_0062 (RLF Helicopter) id:462 group:5460,5400,5465
-m01_04_10_00 DummyEnemy c5100_0064 (RLF Helicopter) id:463 group:5460,5400,5465
-m01_04_10_00 DummyEnemy c5100_0067 (RLF Helicopter) id:466 group:5461,5400,5465
+m01_04_10_00 DummyEnemy c5100_0000 (Quadcopter) id:300 group:5300,5320
+m01_04_10_00 DummyEnemy c5100_0001 (Quadcopter) id:301 group:5300,5320
+m01_04_10_00 DummyEnemy c5100_0002 (Quadcopter) id:302 group:5300,5320
+m01_04_10_00 DummyEnemy c5100_0007 (Quadcopter) id:307 group:5300,5320
+m01_04_10_00 DummyEnemy c5100_0008 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0009 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0010 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0011 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0012 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0014 (Quadcopter) id:310 group:5300,5320
+m01_04_10_00 DummyEnemy c5100_0017 (Quadcopter) id:468 group:5461,5400,5465
+m01_04_10_00 DummyEnemy c5100_0031 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0032 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0033 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0034 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0035 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0036 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0037 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0038 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0039 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0040 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0041 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0042 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0043 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0045 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0047 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0048 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0049 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0050 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0051 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0052 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0053 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0054 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0055 (Quadcopter)
+m01_04_10_00 DummyEnemy c5100_0060 (Quadcopter) id:466 group:5461,5400,5465
+m01_04_10_00 DummyEnemy c5100_0062 (Quadcopter) id:462 group:5460,5400,5465
+m01_04_10_00 DummyEnemy c5100_0064 (Quadcopter) id:463 group:5460,5400,5465
+m01_04_10_00 DummyEnemy c5100_0067 (Quadcopter) id:466 group:5461,5400,5465
 m01_04_10_00 DummyEnemy c5120_0000 id:531 group:5500,5530
 m01_04_10_00 DummyEnemy c5120_0001 id:530 group:5500,5530
 m01_04_10_00 DummyEnemy c5120_0002 id:232 group:5210
@@ -1966,12 +1966,12 @@ m01_04_20_00 DummyEnemy c3050_0041 id:275 group:5256
 m01_04_20_00 DummyEnemy c3050_0043 group:5591
 m01_04_20_00 DummyEnemy c3050_0044 group:5591
 m01_04_20_00 DummyEnemy c3250_0004 (Light Cavalry 1) id:232 group:5230
-m01_04_20_00 DummyEnemy c5100_0000 (RLF Helicopter) id:250 group:5250,5595
-m01_04_20_00 DummyEnemy c5100_0001 (RLF Helicopter) id:251 group:5251,5595
-m01_04_20_00 DummyEnemy c5100_0002 (RLF Helicopter) id:252 group:5252,5595
-m01_04_20_00 DummyEnemy c5100_0003 (RLF Helicopter) id:253 group:5253,5595
-m01_04_20_00 DummyEnemy c5100_0004 (RLF Helicopter) id:254 group:5254,5595
-m01_04_20_00 DummyEnemy c5100_0005 (RLF Helicopter) id:255 group:5255,5595
+m01_04_20_00 DummyEnemy c5100_0000 (Quadcopter) id:250 group:5250,5595
+m01_04_20_00 DummyEnemy c5100_0001 (Quadcopter) id:251 group:5251,5595
+m01_04_20_00 DummyEnemy c5100_0002 (Quadcopter) id:252 group:5252,5595
+m01_04_20_00 DummyEnemy c5100_0003 (Quadcopter) id:253 group:5253,5595
+m01_04_20_00 DummyEnemy c5100_0004 (Quadcopter) id:254 group:5254,5595
+m01_04_20_00 DummyEnemy c5100_0005 (Quadcopter) id:255 group:5255,5595
 m01_04_20_00 DummyEnemy c5150_0000 id:534 group:5521,5596
 m01_04_20_00 DummyEnemy c5150_0001 id:535 group:5521,5596
 m01_04_20_00 DummyEnemy c5150_0002 id:536 group:5521,5596
@@ -2277,12 +2277,12 @@ m01_04_80_00 Enemy c3250_0012 (Light Cavalry 1) npc:32501407 think:32501200 id:2
 m01_04_80_00 Enemy c3250_0013 (Light Cavalry 1) npc:32501407 think:32501200 id:252 group:5200,5121,5240,5799,5720,5871 hp:1075 points:250
 m01_04_80_00 Enemy c3250_0014 (Light Cavalry 1) npc:32501407 think:32501200 id:253 group:5200,5123,5240,5799,5720,5874 hp:1075 points:250
 m01_04_80_00 Enemy c3250_0015 (Light Cavalry 1) npc:32501407 think:32501200 id:254 group:5200,5123,5240,5799,5720,5875 hp:1075 points:250
-m01_04_80_00 Enemy c5100_0000 (RLF Helicopter) npc:51001001 think:51001105 id:200 group:5200,5110,5799,5310,5710 hp:750 points:250
-m01_04_80_00 Enemy c5100_0001 (RLF Helicopter) npc:51001001 think:51001105 id:300 group:5200,5131,5799,5310,5710 hp:750 points:250
-m01_04_80_00 Enemy c5100_0002 (RLF Helicopter) npc:51001001 think:51001105 id:210 group:5200,5111,5799,5310,5710 hp:750 points:250
-m01_04_80_00 Enemy c5100_0003 (RLF Helicopter) npc:51001001 think:51001105 id:310 group:5200,5131,5799,5310,5710 hp:750 points:250
-m01_04_80_00 Enemy c5100_0007 (RLF Helicopter) npc:51001001 think:51001105 id:220 group:5200,5112,5799,5310,5710 hp:750 points:250
-m01_04_80_00 Enemy c5100_0008 (RLF Helicopter) npc:51001001 think:51001105 id:230 group:5200,5112,5799,5310,5710 hp:750 points:250
+m01_04_80_00 Enemy c5100_0000 (Quadcopter) npc:51001001 think:51001105 id:200 group:5200,5110,5799,5310,5710 hp:750 points:250
+m01_04_80_00 Enemy c5100_0001 (Quadcopter) npc:51001001 think:51001105 id:300 group:5200,5131,5799,5310,5710 hp:750 points:250
+m01_04_80_00 Enemy c5100_0002 (Quadcopter) npc:51001001 think:51001105 id:210 group:5200,5111,5799,5310,5710 hp:750 points:250
+m01_04_80_00 Enemy c5100_0003 (Quadcopter) npc:51001001 think:51001105 id:310 group:5200,5131,5799,5310,5710 hp:750 points:250
+m01_04_80_00 Enemy c5100_0007 (Quadcopter) npc:51001001 think:51001105 id:220 group:5200,5112,5799,5310,5710 hp:750 points:250
+m01_04_80_00 Enemy c5100_0008 (Quadcopter) npc:51001001 think:51001105 id:230 group:5200,5112,5799,5310,5710 hp:750 points:250
 m01_04_80_00 Enemy c5120_0000 npc:51201301 think:51201115 id:550 group:5200,5112,5212,5500,5799,5320,5872 hp:302 points:250
 m01_04_80_00 Enemy c5120_0001 npc:51201301 think:51201115 id:551 group:5200,5110,5210,5500,5799,5320,5870 hp:302 points:250
 m01_04_80_00 Enemy c5120_0002 npc:51201301 think:51201115 id:552 group:5200,5110,5210,5500,5799,5320,5871 hp:302 points:250
@@ -2366,8 +2366,8 @@ m01_04_90_00 Enemy c5000_0004 npc:50000000 think:50000000 group:5210,5340 hp:40 
 m01_04_90_00 Enemy c5000_0005 npc:50000000 think:50000000 group:5210,5340 hp:40 points:30
 m01_04_90_00 Enemy c5000_0006 npc:50000000 think:50000000 group:5210,5340 hp:40 points:30
 m01_04_90_00 Enemy c5020_0000 (Smart Cleaner) npc:50201002 think:50201001 id:211 group:5200 hp:48705 points:3000 [EC-0804 SMART CLEANER]
-m01_04_90_00 Enemy c5100_0000 (RLF Helicopter) npc:51000000 think:51000000 id:500 group:5200,5400 hp:750 points:250
-m01_04_90_00 Enemy c5100_0001 (RLF Helicopter) npc:51000000 think:51000000 id:510 group:5200,5400 hp:750 points:250
+m01_04_90_00 Enemy c5100_0000 (Quadcopter) npc:51000000 think:51000000 id:500 group:5200,5400 hp:750 points:250
+m01_04_90_00 Enemy c5100_0001 (Quadcopter) npc:51000000 think:51000000 id:510 group:5200,5400 hp:750 points:250
 m01_04_90_00 Enemy c5120_0000 npc:51200100 think:51201105 hp:302 points:250
 m01_04_90_00 Enemy c5120_0001 npc:51200100 think:51201105 hp:302 points:250
 m01_04_90_00 Enemy c5120_0002 npc:51200100 think:51201105 hp:302 points:250
@@ -3002,18 +3002,18 @@ m01_06_90_00 Enemy c3020_0044 npc:30201201 think:30201206 hp:470 points:100
 m01_06_90_00 Enemy c3400_0000 npc:34000100 think:34000102 group:5532,5531,5999,5803 hp:13370 points:1250
 m01_06_90_00 Enemy c3400_0001 npc:34000300 think:34000300 id:411 group:5510,5999,5803 hp:13370 points:1250
 m01_06_90_00 Enemy c3400_0002 npc:34000300 think:34000300 id:421 group:5510,5999,5803 hp:13370 points:1250
-m01_06_90_00 Enemy c5100_0000 (RLF Helicopter) npc:51000001 think:51001000 id:350 group:5310,5300,5999,5805 hp:750 points:100
-m01_06_90_00 Enemy c5100_0001 (RLF Helicopter) npc:51000002 think:51001000 id:430 group:5530,5999,5805 hp:750 points:250
-m01_06_90_00 Enemy c5100_0002 (RLF Helicopter) npc:51000001 think:51001000 id:370 group:5320,5300,5999,5805 hp:750 points:100
-m01_06_90_00 Enemy c5100_0003 (RLF Helicopter) npc:51000002 think:51001000 id:410 group:5510,5999,5805 hp:750 points:250
-m01_06_90_00 Enemy c5100_0004 (RLF Helicopter) npc:51000002 think:51001000 id:420 group:5510,5999,5805 hp:750 points:250
-m01_06_90_00 Enemy c5100_0005 (RLF Helicopter) npc:51000002 think:51001000 id:440 group:5530,5999,5805 hp:750 points:250
-m01_06_90_00 Enemy c5100_0007 (RLF Helicopter) npc:51000002 think:51001000 id:460 group:5530,5999,5805 hp:750 points:250
-m01_06_90_00 Enemy c5100_0008 (RLF Helicopter) npc:51000002 think:51001000 id:470 group:5530,5999,5805 hp:750 points:250
-m01_06_90_00 Enemy c5100_0009 (RLF Helicopter) npc:51000002 think:51001000 id:480 group:5480,5805 hp:750 points:250
-m01_06_90_00 Enemy c5100_0013 (RLF Helicopter) npc:51000001 think:51001000 id:320 group:5310,5300,5999,5805 hp:750 points:100
-m01_06_90_00 Enemy c5100_0014 (RLF Helicopter) npc:51000001 think:51001000 id:330 group:5310,5300,5999,5805 hp:750 points:100
-m01_06_90_00 Enemy c5100_0015 (RLF Helicopter) npc:51000001 think:51001000 id:340 group:5310,5300,5999,5805 hp:750 points:100
+m01_06_90_00 Enemy c5100_0000 (Quadcopter) npc:51000001 think:51001000 id:350 group:5310,5300,5999,5805 hp:750 points:100
+m01_06_90_00 Enemy c5100_0001 (Quadcopter) npc:51000002 think:51001000 id:430 group:5530,5999,5805 hp:750 points:250
+m01_06_90_00 Enemy c5100_0002 (Quadcopter) npc:51000001 think:51001000 id:370 group:5320,5300,5999,5805 hp:750 points:100
+m01_06_90_00 Enemy c5100_0003 (Quadcopter) npc:51000002 think:51001000 id:410 group:5510,5999,5805 hp:750 points:250
+m01_06_90_00 Enemy c5100_0004 (Quadcopter) npc:51000002 think:51001000 id:420 group:5510,5999,5805 hp:750 points:250
+m01_06_90_00 Enemy c5100_0005 (Quadcopter) npc:51000002 think:51001000 id:440 group:5530,5999,5805 hp:750 points:250
+m01_06_90_00 Enemy c5100_0007 (Quadcopter) npc:51000002 think:51001000 id:460 group:5530,5999,5805 hp:750 points:250
+m01_06_90_00 Enemy c5100_0008 (Quadcopter) npc:51000002 think:51001000 id:470 group:5530,5999,5805 hp:750 points:250
+m01_06_90_00 Enemy c5100_0009 (Quadcopter) npc:51000002 think:51001000 id:480 group:5480,5805 hp:750 points:250
+m01_06_90_00 Enemy c5100_0013 (Quadcopter) npc:51000001 think:51001000 id:320 group:5310,5300,5999,5805 hp:750 points:100
+m01_06_90_00 Enemy c5100_0014 (Quadcopter) npc:51000001 think:51001000 id:330 group:5310,5300,5999,5805 hp:750 points:100
+m01_06_90_00 Enemy c5100_0015 (Quadcopter) npc:51000001 think:51001000 id:340 group:5310,5300,5999,5805 hp:750 points:100
 m01_06_90_00 Enemy c5150_0004 npc:51500000 think:51500001 group:5210,5999,5806 hp:28 points:30
 m01_06_90_00 Enemy c5150_0005 npc:51500000 think:51500001 group:5210,5999,5806 hp:28 points:30
 m01_06_90_00 Enemy c5150_0006 npc:51500000 think:51500001 group:5210,5999,5806 hp:28 points:30
@@ -3340,13 +3340,13 @@ m01_08_40_00 Enemy c4150_0000 npc:41500010 think:41501000 id:600 group:5600,5700
 m01_08_40_00 Enemy c4150_0001 npc:41500010 think:41501001 id:602 group:5600,5700 hp:1848 points:250
 m01_08_40_00 Enemy c4150_0003 npc:41500010 think:41501006 id:603 group:5600,5700 hp:1848 points:250
 m01_08_40_00 Enemy c4150_0004 npc:41500010 think:41501003 id:604 group:5600,5700 hp:1848 points:250
-m01_08_40_00 Enemy c5100_0000 (RLF Helicopter) npc:51001040 think:51001001 id:500 group:5500 hp:750 points:250
-m01_08_40_00 Enemy c5100_0001 (RLF Helicopter) npc:51001040 think:51001001 id:501 group:5501 hp:750 points:250
-m01_08_40_00 Enemy c5100_0002 (RLF Helicopter) npc:51001040 think:51001001 id:502 group:5502 hp:750 points:250
-m01_08_40_00 Enemy c5100_0003 (RLF Helicopter) npc:51001040 think:51001001 id:503 group:5503 hp:750 points:250
-m01_08_40_00 Enemy c5100_0004 (RLF Helicopter) npc:51001040 think:51001001 id:504 group:5504 hp:750 points:250
-m01_08_40_00 Enemy c5100_0006 (RLF Helicopter) npc:51001040 think:51001001 id:506 group:5506 hp:750 points:250
-m01_08_40_00 Enemy c5100_0008 (RLF Helicopter) npc:51001040 think:51001001 id:508 group:5508 hp:750 points:250
+m01_08_40_00 Enemy c5100_0000 (Quadcopter) npc:51001040 think:51001001 id:500 group:5500 hp:750 points:250
+m01_08_40_00 Enemy c5100_0001 (Quadcopter) npc:51001040 think:51001001 id:501 group:5501 hp:750 points:250
+m01_08_40_00 Enemy c5100_0002 (Quadcopter) npc:51001040 think:51001001 id:502 group:5502 hp:750 points:250
+m01_08_40_00 Enemy c5100_0003 (Quadcopter) npc:51001040 think:51001001 id:503 group:5503 hp:750 points:250
+m01_08_40_00 Enemy c5100_0004 (Quadcopter) npc:51001040 think:51001001 id:504 group:5504 hp:750 points:250
+m01_08_40_00 Enemy c5100_0006 (Quadcopter) npc:51001040 think:51001001 id:506 group:5506 hp:750 points:250
+m01_08_40_00 Enemy c5100_0008 (Quadcopter) npc:51001040 think:51001001 id:508 group:5508 hp:750 points:250
 m01_08_40_00 Enemy c7222_0000 (RaD Missile) npc:72221001 think:99801000 id:201 group:5200,5201 hp:15000 [RaD SUB-MISSILE (RIGHT)]
 m01_08_40_00 Enemy c7222_0001 (RaD Missile) npc:72221000 think:99801000 id:200 group:5200 hp:15000 [RaD MAIN MISSILE]
 m01_08_40_00 Enemy c7222_0002 (RaD Missile) npc:72221002 think:99801000 id:202 group:5200,5201 hp:15000 [RaD SUB-MISSILE (LEFT)]
@@ -3389,7 +3389,7 @@ m01_08_40_00 DummyEnemy c3020_0062 id:443 group:5467,5700
 m01_08_40_00 DummyEnemy c3020_0067 id:447 group:5469,5700
 m01_08_40_00 DummyEnemy c3020_0068 id:448 group:5469,5700
 m01_08_40_00 DummyEnemy c3020_0069 id:449 group:5469,5700
-m01_08_40_00 DummyEnemy c5100_0005 (RLF Helicopter) id:505 group:5505
+m01_08_40_00 DummyEnemy c5100_0005 (Quadcopter) id:505 group:5505
 m01_08_40_00 DummyEnemy c7403_0000 id:645 group:5450,5700
 m01_08_40_00 DummyEnemy c7403_0003 id:646 group:5450,5700
 m01_08_40_00 Asset AEG840_030_0000 id:1200 group:6200
@@ -3597,9 +3597,9 @@ m01_08_60_00 Enemy c3020_0057 npc:30201503 think:30201524 id:444 group:5300,5500
 m01_08_60_00 Enemy c3020_0058 npc:30201305 think:30201307 id:400 group:5300,5500,5690 hp:470 points:100
 m01_08_60_00 Enemy c3400_0000 npc:34001003 think:34001029 id:430 group:5580,5501,5690 hp:13370 points:1250
 m01_08_60_00 Enemy c3400_0001 npc:34001103 think:34001107 id:431 group:5550,5302,5501,5520,5312,5680,5690 hp:13370 points:1250
-m01_08_60_00 Enemy c5100_0001 (RLF Helicopter) npc:51000000 think:51000000 id:450 group:5200,5600,5601,5602,5690 hp:750 points:250
-m01_08_60_00 Enemy c5100_0002 (RLF Helicopter) npc:51000000 think:51000000 id:451 group:5200,5600,5601,5602,5690 hp:750 points:250
-m01_08_60_00 Enemy c5100_0003 (RLF Helicopter) npc:51000000 think:51000000 id:452 group:5200,5600,5601,5602,5690 hp:750 points:250
+m01_08_60_00 Enemy c5100_0001 (Quadcopter) npc:51000000 think:51000000 id:450 group:5200,5600,5601,5602,5690 hp:750 points:250
+m01_08_60_00 Enemy c5100_0002 (Quadcopter) npc:51000000 think:51000000 id:451 group:5200,5600,5601,5602,5690 hp:750 points:250
+m01_08_60_00 Enemy c5100_0003 (Quadcopter) npc:51000000 think:51000000 id:452 group:5200,5600,5601,5602,5690 hp:750 points:250
 m01_08_60_00 Enemy c5120_0000 npc:51201300 think:51201110 id:650 group:5304,5690 hp:302 points:250
 m01_08_60_00 Enemy c5120_0001 npc:51200391 think:51201110 id:651 group:5300,5690 hp:302 points:250
 m01_08_60_00 Enemy c5120_0003 npc:51200391 think:51201110 id:653 group:5301,5550,5690 hp:302 points:250
@@ -3648,7 +3648,7 @@ m01_08_60_00 DummyEnemy c3020_0042 id:442 group:5500,5400,5690
 m01_08_60_00 DummyEnemy c3020_0045 id:340 group:5200,5400,5401
 m01_08_60_00 DummyEnemy c3020_0048 id:342 group:5200,5400,5401
 m01_08_60_00 DummyEnemy c3020_0055 group:5200,5400,5401
-m01_08_60_00 DummyEnemy c5100_0000 (RLF Helicopter) id:500 group:5200
+m01_08_60_00 DummyEnemy c5100_0000 (Quadcopter) id:500 group:5200
 m01_08_60_00 DummyEnemy c9980_0003 (Dummy) id:900 group:5690
 --- m01_08_70_00 (Mission 2250 - Bona Dea Dunes - Escort the Weaponized Mining Ship)
 m01_08_70_00 Enemy c3500_0005 npc:35001010 think:35001002 id:530 group:5430,5500,5530,5450 hp:9550 points:1250
@@ -3821,10 +3821,10 @@ m01_08_90_00 Enemy c3400_0002 npc:34001105 think:34001108 id:250 group:5810 hp:1
 m01_08_90_00 Enemy c3400_0003 npc:34001301 think:34001305 id:201 group:5250,5251 hp:13370 points:1250
 m01_08_90_00 Enemy c5000_0002 npc:50000000 think:50000000 group:5250,5251 hp:40 points:30
 m01_08_90_00 Enemy c5000_0003 npc:50000000 think:50000000 group:5250,5251 hp:40 points:30
-m01_08_90_00 Enemy c5100_0000 (RLF Helicopter) npc:51000002 think:51000000 id:600 group:5600,5250,5251 hp:750 points:250
-m01_08_90_00 Enemy c5100_0001 (RLF Helicopter) npc:51000002 think:51000000 id:610 group:5610,5250,5251 hp:750 points:250
-m01_08_90_00 Enemy c5100_0004 (RLF Helicopter) npc:51000100 think:51000000 id:260 group:5810 hp:750 points:250
-m01_08_90_00 Enemy c5100_0005 (RLF Helicopter) npc:51000100 think:51000000 id:261 group:5810 hp:750 points:250
+m01_08_90_00 Enemy c5100_0000 (Quadcopter) npc:51000002 think:51000000 id:600 group:5600,5250,5251 hp:750 points:250
+m01_08_90_00 Enemy c5100_0001 (Quadcopter) npc:51000002 think:51000000 id:610 group:5610,5250,5251 hp:750 points:250
+m01_08_90_00 Enemy c5100_0004 (Quadcopter) npc:51000100 think:51000000 id:260 group:5810 hp:750 points:250
+m01_08_90_00 Enemy c5100_0005 (Quadcopter) npc:51000100 think:51000000 id:261 group:5810 hp:750 points:250
 m01_08_90_00 Enemy c5150_0000 npc:51500000 think:51500001 group:5820,5250,5251 hp:28 points:30
 m01_08_90_00 Enemy c5150_0001 npc:51500000 think:51500001 group:5820,5250,5251 hp:28 points:30
 m01_08_90_00 Enemy c5150_0002 npc:51500000 think:51500001 group:5820,5250,5251 hp:28 points:30
@@ -3984,12 +3984,12 @@ m01_10_00_00 Enemy c3020_0025 npc:30200299 think:30200200 hp:470 points:100
 m01_10_00_00 Enemy c3020_0026 npc:30201426 think:30200403 hp:470 points:100
 m01_10_00_00 Enemy c3020_0027 npc:30201426 think:30200403 hp:470 points:100
 m01_10_00_00 Enemy c3400_0000 npc:34001203 think:34001208 id:301 group:5303 hp:13370 points:1250
-m01_10_00_00 Enemy c5100_0000 (RLF Helicopter) npc:51000101 think:51000103 id:200 group:5201,5211 hp:750 points:250
-m01_10_00_00 Enemy c5100_0001 (RLF Helicopter) npc:51000101 think:51000103 id:201 group:5202,5212 hp:750 points:250
-m01_10_00_00 Enemy c5100_0002 (RLF Helicopter) npc:51000101 think:51000103 id:202 group:5203,5213 hp:750 points:250
-m01_10_00_00 Enemy c5100_0003 (RLF Helicopter) npc:51000101 think:51000103 id:203 group:5203,5213 hp:750 points:250
-m01_10_00_00 Enemy c5100_0004 (RLF Helicopter) npc:51000101 think:51000103 id:204 group:5203,5213 hp:750 points:250
-m01_10_00_00 Enemy c5100_0005 (RLF Helicopter) npc:51000101 think:51000103 id:205 group:5203,5213 hp:750 points:250
+m01_10_00_00 Enemy c5100_0000 (Quadcopter) npc:51000101 think:51000103 id:200 group:5201,5211 hp:750 points:250
+m01_10_00_00 Enemy c5100_0001 (Quadcopter) npc:51000101 think:51000103 id:201 group:5202,5212 hp:750 points:250
+m01_10_00_00 Enemy c5100_0002 (Quadcopter) npc:51000101 think:51000103 id:202 group:5203,5213 hp:750 points:250
+m01_10_00_00 Enemy c5100_0003 (Quadcopter) npc:51000101 think:51000103 id:203 group:5203,5213 hp:750 points:250
+m01_10_00_00 Enemy c5100_0004 (Quadcopter) npc:51000101 think:51000103 id:204 group:5203,5213 hp:750 points:250
+m01_10_00_00 Enemy c5100_0005 (Quadcopter) npc:51000101 think:51000103 id:205 group:5203,5213 hp:750 points:250
 m01_10_00_00 Enemy c5200_0000 npc:52000000 think:52000000 hp:73 points:30
 m01_10_00_00 Enemy c5200_0001 npc:52000000 think:52000000 hp:73 points:30
 m01_10_00_00 Enemy c5200_0002 npc:52000000 think:52000000 hp:73 points:30
@@ -4158,8 +4158,8 @@ m01_10_90_00 Enemy c5000_0008 npc:50000000 think:50001005 group:5410,5800,5890,5
 m01_10_90_00 Enemy c5000_0009 npc:50000000 think:50001005 group:5410,5800,5890,5990,5900 hp:40 points:30
 m01_10_90_00 Enemy c5000_0010 npc:50000000 think:50001005 group:5410,5800,5890,5990,5900 hp:40 points:30
 m01_10_90_00 Enemy c5000_0011 npc:50000000 think:50001005 group:5410,5800,5890,5990,5900 hp:40 points:30
-m01_10_90_00 Enemy c5100_0000 (RLF Helicopter) npc:51001004 think:51000000 id:350 group:5300,5950,5900 hp:750 points:250
-m01_10_90_00 Enemy c5100_0001 (RLF Helicopter) npc:51001004 think:51000000 id:450 group:5400,5950,5900 hp:750 points:250
+m01_10_90_00 Enemy c5100_0000 (Quadcopter) npc:51001004 think:51000000 id:350 group:5300,5950,5900 hp:750 points:250
+m01_10_90_00 Enemy c5100_0001 (Quadcopter) npc:51001004 think:51000000 id:450 group:5400,5950,5900 hp:750 points:250
 m01_10_90_00 Enemy c5120_0000 npc:51201000 think:51201000 id:250 group:5200,5250,5700 hp:302 points:250
 m01_10_90_00 Enemy c5120_0001 npc:51201000 think:51201000 id:251 group:5200,5250,5700 hp:302 points:250
 m01_10_90_00 Enemy c5120_0002 npc:51200391 think:51201118 id:321 group:5300,5800,5890,5900 hp:302 points:250
@@ -4339,7 +4339,7 @@ m01_11_60_00 Asset AEG506_735_0001 id:2111601200
 m01_11_60_00 Asset AEG506_735_0002 id:2111601201
 --- m01_11_70_00 (Mission 7980 - Contaminated City - Destroy the Tester AC)
 m01_11_70_00 Enemy c0000_0001 (AC) npc:12701000 think:12701000 chara:12700000 id:300 hp:1700 points:3000 [TESTER / 51-012 AL] [TESTER AC / Dafeng Student Pilot]
-m01_11_70_00 Enemy c5100_0000 (RLF Helicopter) npc:51001102 think:51101004 id:310 hp:750 points:250
+m01_11_70_00 Enemy c5100_0000 (Quadcopter) npc:51001102 think:51101004 id:310 hp:750 points:250
 m01_11_70_00 Enemy c9980_0000 (Dummy) npc:99800000 think:99801000 talk:11170000 hp:99999
 m01_11_70_00 Player c0000_0000 (AC)
 --- m01_12_00_00 (Mission 9204 - AC Test - Intermediate Support 3: Tetrapod ACs)

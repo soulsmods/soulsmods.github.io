@@ -497,7 +497,7 @@ m61_46_35_00 Cerulean Coast - The Fissure West Cliffside
 m61_47_35_00 Cerulean Coast - The Fissure South, Stone Coffin Fissure Entrance
 m61_11_09_02 Southwest Cerulean Coast
 m61_22_19_01 
-m61_45_39_00 Charo's Hidden Grace - Far West Cliffside
+m61_45_39_00 Charo's Hidden Grave - Far West Cliffside
 m61_23_18_01 
 m61_47_36_00 Cerulean Coast - The Fissure North
 m61_47_37_00 Cerulean Coast - Path to The Fissue

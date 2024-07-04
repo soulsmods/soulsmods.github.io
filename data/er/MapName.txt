@@ -519,10 +519,10 @@ m61_23_20_01
 m61_46_40_00 Gravesite Plain - Church of Benediction; Cerulean Coast - Demi-Human Beach, Ravine North; Charo's Hidden Grave - Lamenter's Gaol Entrance
 m61_46_41_00 Gravesite Plain - Western Nameless Mausoleum, East of Prospect Town, West of Scorched Ruins
 m61_47_40_00 Gravesite Plain - South of Scorched Ruins, Gravesite Plain South Cliffside; Cerulean Coast - Ravine Northeast; Charo's Hidden Grave - North Central Lake
-m61_47_41_00 Gravesite Plain - Scorched Ruins; Ellac River Downstream
+m61_47_41_00 Gravesite Plain - Scorched Ruins, Ellac River Downstream
 m61_23_21_01 
 m61_46_42_00 Gravesite Plain - Three-Path Cross
-m61_46_43_00 Gravesite Plain - Ellac Greatbridge; Below Ellac Greatbridge
+m61_46_43_00 Gravesite Plain - Ellac Greatbridge, Below Ellac Greatbridge
 m61_47_42_00 Gravesite Plain - North of Scorched Ruins, Downstream of Ellac River Cave
 m61_47_43_00 Gravesite Plain - East of Ensis Castle Front, Ellac River Cave
 m61_11_11_02 Northwest Gravesite Plain; West Scadu Altus; Rauh Ruins
@@ -537,17 +537,17 @@ m61_45_46_00 Rauh Base - Rot Area; Ancient Ruins of Rauh - Furnace Golem Area
 m61_45_47_00 Rauh Base - Ravine North, East Scorpion River; Ancient Ruins of Rauh - West Ruins Northeast Cliffside, East Ruins Cave Exit
 m61_23_22_01 
 m61_46_44_00 Gravesite Plain - Greatbridge North, Abandoned Ailing Village, Rivermouth Cave Entrance
-m61_46_45_00 Rauh Base - Temple Town Ruins; Gravesite Plain - Northern Nameless Mausoleum
-m61_47_44_00 Gravesite Plain - West Castle Ensis, South Fog Rift Fort
+m61_46_45_00 Rauh Base - Temple Town Ruins; Gravesite Plain - Northern Nameless Mausoleum, Ellac River Start
+m61_47_44_00 Gravesite Plain - West Castle Ensis, South Fog Rift Fort; Scadu Altus - Belfry
 m61_47_45_00 Gravesite Plain - North Fog Rift Fort, Northern Nameless Mausoleum East Cliffside; Scadu Altus - Scadu Altus West
 m61_23_23_01 
-m61_46_46_00 Rauh Base - North Temple Town Ruins
-m61_46_47_00 Rauh Base - Fire Spritestone Cave; Ancient Ruins of Rauh - East Ruins Grace and Cave Entrance, Scorpion Cave
+m61_46_46_00 Rauh Base - North Temple Town Ruins; Ancient Ruins of Rauh - South Belfry Area, Hippo Pond, Divine Beast Pantheon
+m61_46_47_00 Rauh Base - Fire Spritestone Cave; Ancient Ruins of Rauh - North Belfry Area, East Ruins Grace and Cave Entrance, Scorpion Cave
 m61_47_46_00 Scadu Altus - Church of the Crusade; Gravesite Plain - Fog Rift Catacombs Entrance; Rauh Base - Above Fog Rift; Ancient Ruins of Rauh - Bloodfiend Ruins Southeast Cliffside
 m61_47_47_00 Rauh Base - Bloodfiend Cave; Ancient Ruins of Rauh - Shadow Keep Exit, Viaduct Minor Tower, Bloodfiend Ruins
 m61_11_11_12 Northwest Gravesite Plain; West Scadu Altus; Rauh Ruins (Unsealed)
 m61_22_22_11 
-m61_44_45_10 Ancient Ruins of Rauh - Church of the Bud, Sealing Tree, Grand Stairway (Unsealed)
+m61_44_45_00 Ancient Ruins of Rauh - South Church of the Bud, Sealing Tree, Grand Stairway, West Ruins Cave Upper Levels (Unsealed)
 m61_11_12_02 North Rauh Ruins
 m61_22_24_01 
 m61_44_48_00 Rauh Base - Northwest Great Red Bear Area
@@ -560,7 +560,7 @@ m61_24_18_01
 m61_48_37_00 Cerulean Coast - Cerulean Coast Cross, Far Southwest Fingercreeper Beach Coast
 m61_49_37_00 Cerulean Coast - Fingercreeper Beach Central Coast
 m61_24_19_01 
-m61_48_38_00 Cerulean Coast - Dragon Area, Beach-Facing Coffin; Charo's Hidden Grave - Southeast Mariner Area
+m61_48_38_00 Cerulean Coast - Dragon Area, Beach-Facing Coffin; Finger Ruins of Rhia - West of Finger-Weaver's Hovel; Charo's Hidden Grave - Southeast Mariner Area
 m61_48_39_00 Cerulean Coast - Cerulean Coast; Charo's Hidden Grave - Charo's Hidden Grave
 m61_49_38_00 Cerulean Coast - Fingercreeper Beach Center; Finger Ruins of Rhia - Finger-Weaver's Hovel; Charo's Hidden Grave - Far Southeast Entrance; Foot of the Jagged Peak - South of Grand Altar
 m61_49_39_00 Finger Ruins of Rhia - Climb to Finger-Weaver's Hovel; Charo's Hidden Grave - Far East Cliffside; Foot of the Jagged Peak - Grand Altar of Dragon Communion
@@ -602,12 +602,12 @@ m61_24_23_01
 m61_48_46_00 Scadu Altus - Furnace Golem Area; Rauh Base - Entrance from Poison Swamp
 m61_48_47_00 Scadu Altus - Shadow Keep Main Gate; Rauh Base - Ancient Ruins Base
 m61_49_46_00 Scadu Altus - Poison Swamp, South Great Red Bear Area, Castle Watering Hole Southwest
-m61_49_47_00 Scadu Altus - Castle Watering Hole Northwest Entrance
+m61_49_47_00 Scadu Altus - Castle Watering Hole Northwest Entrance, East of Shadow Keep Main Gate
 m61_25_22_01 
 m61_50_44_00 Scadu Altus - Main Bonny Village, Whipping Hut, Recluses' River Downstream, Village of Flies
 m61_50_45_00 Scadu Altus - Bonny Village North Tree and Overlook, Recluses' River Upstream, Manus Metyr Graveyard and West Cliffside
 m61_51_44_00 Scadu Altus - Bridge Leading to the Village, Eastern Nameless Mausoleum, Hippo Duo Pond
-m61_51_45_00 Scadu Altus - Cathedral of Manus Metyr, Finger Ruins of Miyr, Furnace Golem Area
+m61_51_45_00 Scadu Altus - Cathedral of Manus Metyr, Finger Ruins of Miyr, Second Furnace Golem Area, Recluses' River Downstream West Edge
 m61_25_23_01 
 m61_50_46_00 Scadu Altus - Castle Watering Hole Southeast, South Ruins of Unte, Church District Highroad West Cliffside
 m61_50_47_00 Scadu Altus - Castle Watering Hole Northeast, North Ruins of Unte, Above Shadow Keep East Tunnel

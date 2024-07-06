@@ -130,7 +130,28 @@
     },
     {
       "map": "m20_00_00_00",
-      "name": "Belurat, Tower Settlement"
+      "name": "Belurat, Tower Settlement",
+      "areas": [
+        {
+          "name": "Belurat, Tower Settlement",
+          "comment": "Includes swamp southeast corner, but no items or enemies (45 degree wall with starting hallway)",
+          "x_above": -104
+        },
+        {
+          "name": "Belurat, Tower Settlement",
+          "comment": "Also east swamp edge",
+          "x_above": -120,
+          "z_below": 165,
+          "z_above": 95
+        },
+        {
+          "name": "Belurat, Tower Settlement Swamp",
+          "y_below": 30
+        },
+        {
+          "name": "Belurat, Tower Settlement"
+        }
+      ]
     },
     {
       "map": "m20_01_00_00",
@@ -161,7 +182,56 @@
     },
     {
       "map": "m21_01_00_00",
-      "name": "Specimen Storehouse"
+      "name": "Specimen Storehouse",
+      "areas": [
+        {
+          "name": "Specimen Storehouse - Shadow Tower",
+          "x_below": 150,
+          "y_above": 335,
+          "z_above": 295
+        },
+        {
+          "name": "Specimen Storehouse - Rafters",
+          "comment": "There is a tenth floor, where the exit to Gaius elevator is, but nothing on it",
+          "y_above": 357
+        },
+        {
+          "name": "Specimen Storehouse - Ninth Floor",
+          "y_above": 347
+        },
+        {
+          "name": "Specimen Storehouse - Eighth Floor",
+          "y_above": 337
+        },
+        {
+          "name": "Specimen Storehouse - Seventh Floor",
+          "y_above": 327
+        },
+        {
+          "name": "Specimen Storehouse - Sixth Floor",
+          "y_above": 317
+        },
+        {
+          "name": "Specimen Storehouse - Fifth Floor",
+          "y_above": 307
+        },
+        {
+          "name": "Specimen Storehouse - Fourth Floor",
+          "y_above": 297
+        },
+        {
+          "name": "Specimen Storehouse - Third Floor",
+          "y_above": 287
+        },
+        {
+          "name": "Specimen Storehouse - Second Floor",
+          "comment": "Includes lower walkways",
+          "y_above": 274
+        },
+        {
+          "name": "Specimen Storehouse - First Floor"
+        }
+      ]
     },
     {
       "map": "m21_02_00_00",
@@ -3125,11 +3195,11 @@
       "name": "Scaduview - Hinterland, Lower Shadow Keep Exit, South Scadutree Base",
       "areas": [
         {
-          "name": "Scaduview - South Scadutree Base",
+          "name": "Scaduview - South Scadutree Base, Lower Shadow Keep Exit",
           "y_below": 250
         },
         {
-          "name": "Scaduview - Hinterland, Lower Shadow Keep Exit"
+          "name": "Scaduview - Hinterland"
         }
       ]
     },

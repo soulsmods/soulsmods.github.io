@@ -2234,7 +2234,7 @@
     },
     {
       "map": "m61_44_46_00",
-      "name": "Rauh Base - Scorpion River Catacombs Entrance; Ancient Ruins of Rauh - Spirit Spring Courtyard, Rot Ruins, North Church of the Bud",
+      "name": "Rauh Base - Scorpion River Catacombs Entrance; Ancient Ruins of Rauh - Spiritspring Courtyard, Rot Ruins, North Church of the Bud",
       "areas": [
         {
           "name": "Rauh Base - Scorpion River Catacombs Entrance",
@@ -2246,7 +2246,7 @@
           "z_below": -38
         },
         {
-          "name": "Ancient Ruins of Rauh - Spirit Spring Courtyard, Rot Ruins"
+          "name": "Ancient Ruins of Rauh - Spiritspring Courtyard, Rot Ruins"
         }
       ]
     },
@@ -2265,7 +2265,7 @@
     },
     {
       "map": "m61_44_48_00",
-      "name": "Rauh Base - Northwest Great Red Bear Area"
+      "name": "Rauh Base - Northwest Bear Woods"
     },
     {
       "map": "m61_45_39_00",
@@ -2332,7 +2332,7 @@
     },
     {
       "map": "m61_45_48_00",
-      "name": "Rauh Base - Northeast Great Red Bear Area"
+      "name": "Rauh Base - Northeast Bear Woods"
     },
     {
       "map": "m61_46_35_00",
@@ -3023,14 +3023,14 @@
     },
     {
       "map": "m61_49_45_00",
-      "name": "Scadu Altus - Moorth Highway Camp, South Great Red Bear Area"
+      "name": "Scadu Altus - Moorth Highway Camp, South Bear Woods"
     },
     {
       "map": "m61_49_46_00",
-      "name": "Scadu Altus - Poison Swamp, South Great Red Bear Area, Castle Watering Hole Southwest",
+      "name": "Scadu Altus - Poison Swamp, North Bear Woods, Castle Watering Hole Southwest",
       "areas": [
         {
-          "name": "Scadu Altus - South Great Red Bear Area",
+          "name": "Scadu Altus - North Bear Woods",
           "y_above": 380
         },
         {
@@ -3182,6 +3182,10 @@
       "name": "Scadu Altus - Castle Watering Hole Northeast, North Ruins of Unte, Above Shadow Keep East Tunnel",
       "areas": [
         {
+          "name": "Scaduview - South Hinterland",
+          "y_above": 530
+        },
+        {
           "name": "Scadu Altus - Above Shadow Keep East Tunnel",
           "y_above": 330
         },
@@ -3199,7 +3203,7 @@
           "y_below": 250
         },
         {
-          "name": "Scaduview - Hinterland"
+          "name": "Scaduview - North Hinterland"
         }
       ]
     },
@@ -3230,14 +3234,14 @@
     },
     {
       "map": "m61_51_41_00",
-      "name": "Finger Ruins of Rhia - Far Northeast; Foot of the Jagged Peak - First Spirit Spring and Rope Bridge; Abyssal Woods - South Winter-Lantern River by Woodland Trail",
+      "name": "Finger Ruins of Rhia - Far Northeast; Foot of the Jagged Peak - First Spiritspring and Rope Bridge; Abyssal Woods - South Winter-Lantern River by Woodland Trail",
       "areas": [
         {
           "name": "Abyssal Woods - South Winter-Lantern River by Woodland Trail",
           "y_below": -300
         },
         {
-          "name": "Foot of the Jagged Peak - First Spirit Spring and Rope Bridge",
+          "name": "Foot of the Jagged Peak - First Spiritspring and Rope Bridge",
           "y_above": 40
         },
         {

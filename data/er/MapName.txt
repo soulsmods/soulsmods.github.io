@@ -531,7 +531,7 @@ m61_44_45_00 Ancient Ruins of Rauh - South Church of the Bud, Sealing Tree, Gran
 m61_45_44_00 Gravesite Plain - Dragon Lake, Belurat Gaol Entrance
 m61_45_45_00 Rauh Base - West of Temple Town Ruins; Ancient Ruins of Rauh - West Ruins Cave Entrance and Grace
 m61_22_23_01 
-m61_44_46_00 Rauh Base - Scorpion River Catacombs Entrance; Ancient Ruins of Rauh - Spirit Spring Courtyard, Rot Ruins, North Church of the Bud
+m61_44_46_00 Rauh Base - Scorpion River Catacombs Entrance; Ancient Ruins of Rauh - Spiritspring Courtyard, Rot Ruins, North Church of the Bud
 m61_44_47_00 Rauh Base - West Scorpion River; Ancient Ruins of Rauh - West Ruins Northwest Cliffside
 m61_45_46_00 Rauh Base - Rot Area; Ancient Ruins of Rauh - Furnace Golem Area
 m61_45_47_00 Rauh Base - Ravine North, East Scorpion River; Ancient Ruins of Rauh - West Ruins Northeast Cliffside, East Ruins Cave Exit
@@ -550,8 +550,8 @@ m61_22_22_11
 m61_44_45_00 Ancient Ruins of Rauh - South Church of the Bud, Sealing Tree, Grand Stairway, West Ruins Cave Upper Levels (Unsealed)
 m61_11_12_02 North Rauh Ruins
 m61_22_24_01 
-m61_44_48_00 Rauh Base - Northwest Great Red Bear Area
-m61_45_48_00 Rauh Base - Northeast Great Red Bear Area
+m61_44_48_00 Rauh Base - Northwest Bear Woods
+m61_45_48_00 Rauh Base - Northeast Bear Woods
 m61_23_24_01 
 m61_46_48_00 Ancient Ruins of Rauh - East Ruins North Pit and Tunnels
 m61_47_48_00 Rauh Base - West Rampart Bridge Northwest Cliffside; Ancient Ruins of Rauh - Viaduct Tower North Cliffside
@@ -586,7 +586,7 @@ m61_25_20_01
 m61_50_40_00 Finger Ruins of Rhia - Northwest, Hanging Bell; Foot of the Jagged Peak - North of Grand Altar East Edge
 m61_50_41_00 Finger Ruins of Rhia - Far Northwest; Foot of the Jagged Peak - Northeast of Drake Lake; Abyssal Woods - Central Woods South Edge
 m61_51_40_00 Finger Ruins of Rhia - Northeast; Foot of the Jagged Peak - Foot of the Jagged Peak West Cliffside
-m61_51_41_00 Finger Ruins of Rhia - Far Northeast; Foot of the Jagged Peak - First Spirit Spring and Rope Bridge; Abyssal Woods - South Winter-Lantern River by Woodland Trail
+m61_51_41_00 Finger Ruins of Rhia - Far Northeast; Foot of the Jagged Peak - First Spiritspring and Rope Bridge; Abyssal Woods - South Winter-Lantern River by Woodland Trail
 m61_25_21_01 
 m61_50_42_00 Abyssal Woods - Central Abyssal Woods
 m61_50_43_00 Scadu Altus - Scaduview Cross, Bonny Gaol Entrance, Path to Village of Flies; Abyssal Woods - Alcove North of Central Woods
@@ -597,11 +597,11 @@ m61_24_22_01
 m61_48_44_00 Gravesite Plain - East Castle Ensis, Exit to Scadu Altus; Scadu Altus - Ruined Forge of Starfall Past Entrance
 m61_48_45_00 Scadu Altus - Highroad Cross, Highway Fork
 m61_49_44_00 Scadu Altus - Moorth Ruins, Bonny Village West Entrance
-m61_49_45_00 Scadu Altus - Moorth Highway Camp, South Great Red Bear Area
+m61_49_45_00 Scadu Altus - Moorth Highway Camp, South Bear Woods
 m61_24_23_01 
 m61_48_46_00 Scadu Altus - Furnace Golem Area; Rauh Base - Entrance from Poison Swamp
 m61_48_47_00 Scadu Altus - Shadow Keep Main Gate; Rauh Base - Ancient Ruins Base
-m61_49_46_00 Scadu Altus - Poison Swamp, South Great Red Bear Area, Castle Watering Hole Southwest
+m61_49_46_00 Scadu Altus - Poison Swamp, North Bear Woods, Castle Watering Hole Southwest
 m61_49_47_00 Scadu Altus - Castle Watering Hole Northwest Entrance, East of Shadow Keep Main Gate
 m61_25_22_01 
 m61_50_44_00 Scadu Altus - Main Bonny Village, Whipping Hut, Recluses' River Downstream, Village of Flies

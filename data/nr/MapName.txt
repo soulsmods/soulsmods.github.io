@@ -53,7 +53,7 @@ m43_50_00_00 Small Camp - Guilty; Guilty Alt
 m44_01_00_00 Small Camp - Shack
 m45_00_00_00 Small Camp - Caravans
 m45_01_00_00 Small Camp - Caravans and Soldiers
-m45_51_00_00 Field Boss - Black Knight Assassin
+m45_51_00_00 Field Boss - Black Knife Assassin
 m45_52_00_00 Event - Maris
 m45_53_00_00 Event - Gnoster
 m45_55_00_00 Event - Libra
@@ -90,7 +90,7 @@ m46_74_00_00 Field Boss - Death Rite Bird
 m46_77_00_00 Field Boss - Demi-Human Queen
 m46_78_00_00 Event - Morgott
 m46_80_00_00 Evergaol - Death Rite Bird; Ancient Dragon; Godskin Duo
-m46_81_00_00 Boss - Black Knight Assassin
+m46_81_00_00 Boss - Black Knife Assassin
 m46_82_00_00 Boss - Red Wolf
 m46_86_00_00 Boss - Leonine Misbegotten
 m46_87_00_00 Boss - Bell Bearing Hunter
@@ -131,91 +131,91 @@ m49_42_00_00 Castle - Trolls
 m49_43_00_00 Castle - Crucible Knights
 m49_90_00_00 Night Boss - Ulcerated Tree Spirit
 m60_00_00_99 Overworld
-m60_10_09_02 Limveld: East
-m60_10_09_12 Limveld: East (Mountaintop)
-m60_10_09_22 Limveld: East (Crater)
-m60_10_09_52 Limveld: East (Noklateo)
-m60_11_09_02 Limveld: West
-m60_11_09_22 Limveld: West (Crater)
-m60_11_09_32 Limveld: West (Rotted Woods)
-m60_11_09_52 Limveld: West (Noklateo)
-m60_21_18_01 Limveld: Southwest
-m60_21_18_11 Limveld: Southwest (Mountaintop)
-m60_21_18_21 Limveld: Southwest (Crater)
-m60_21_18_51 Limveld: Southwest (Noklateo)
-m60_21_19_01 Limveld: Northwest
-m60_21_19_11 Limveld: Northwest (Mountaintop)
-m60_21_19_21 Limveld: Northwest (Crater)
-m60_21_19_51 Limveld: Northwest (Noklateo)
-m60_22_18_01 Limveld: Southeast
-m60_22_18_21 Limveld: Southeast (Crater)
-m60_22_18_31 Limveld: Southeast (Rotted Woods)
-m60_22_18_51 Limveld: Southeast (Noklateo)
-m60_22_19_01 Limveld: Northeast
-m60_22_19_21 Limveld: Northeast (Crater)
-m60_22_19_31 Limveld: Northeast (Rotted Woods)
-m60_22_19_51 Limveld: Northeast (Noklateo)
-m60_42_36_00 Limveld: Southwest Corner, West Lake
-m60_42_36_10 Limveld: Southwest Corner, West Lake (Mountaintop)
-m60_42_36_20 Limveld: Southwest Corner, West Lake (Crater)
-m60_42_36_50 Limveld: Noklateo Inner Tier (Noklateo)
-m60_42_37_00 Limveld: Gatefront
-m60_42_37_10 Limveld: Gatefront (Mountaintop)
-m60_42_37_20 Limveld: Gatefront (Crater)
-m60_42_37_50 Limveld: Noklateo North Wall (Noklateo)
-m60_42_38_00 Limveld: Southwest Stormhill
-m60_42_38_10 Limveld: Southwest Mountaintop (Mountaintop)
-m60_42_38_20 Limveld: Southwest Stormhill (Crater)
-m60_42_38_50 Limveld: Southwest Stormhill (Noklateo)
-m60_42_39_00 Limveld: Northwest Corner
-m60_42_39_10 Limveld: Northwest Mountaintop (Mountaintop)
-m60_42_39_20 Limveld: Northwest Corner (Crater)
-m60_42_39_50 Limveld: Northwest Corner (Noklateo)
-m60_43_36_00 Limveld: Central Lake
-m60_43_36_10 Limveld: Central Lake (Mountaintop)
-m60_43_36_20 Limveld: Central Lake (Crater)
-m60_43_36_50 Limveld: Noklateo East Wall, West Lake (Noklateo)
-m60_43_37_00 Limveld: Castle
-m60_43_37_10 Limveld: Castle (Mountaintop)
-m60_43_37_20 Limveld: Castle (Crater)
-m60_43_37_50 Limveld: Noklateo Entrance (Noklateo)
-m60_43_38_00 Limveld: West Murkwater, Southeast Stormhill
-m60_43_38_10 Limveld: Southeast Mountaintop (Mountaintop)
-m60_43_38_20 Limveld: Southwest Crater (Crater)
-m60_43_38_50 Limveld: West Murkwater, Southeast Stormhill (Noklateo)
-m60_43_39_00 Limveld: West Saintsbridge
-m60_43_39_10 Limveld: Northeast Mountaintop (Mountaintop)
-m60_43_39_20 Limveld: Northwest Crater (Crater)
-m60_43_39_50 Limveld: West Saintsbridge (Noklateo)
-m60_44_36_00 Limveld: East Lake
-m60_44_36_20 Limveld: East Lake (Crater)
-m60_44_36_30 Limveld: Southwest Rotted Woods (Rotted Woods)
-m60_44_36_50 Limveld: East Lake (Noklateo)
-m60_44_37_00 Limveld: Castle Front
-m60_44_37_20 Limveld: Castle Front (Crater)
-m60_44_37_30 Limveld: Northwest Rotted Woods (Rotted Woods)
-m60_44_37_50 Limveld: East of Noklateo Entrance (Noklateo)
-m60_44_38_00 Limveld: East Murkwater
-m60_44_38_20 Limveld: Southeast Crater (Crater)
-m60_44_38_30 Limveld: East Murkwater (Rotted Woods)
-m60_44_38_50 Limveld: East Murkwater (Noklateo)
-m60_44_39_00 Limveld: Saintsbridge to Summonwater
-m60_44_39_20 Limveld: Northeast Crater (Crater)
-m60_44_39_30 Limveld: Saintsbridge to Summonwater (Rotted Woods)
-m60_44_39_50 Limveld: Saintsbridge to Summonwater (Noklateo)
-m60_45_36_00 Limveld: South Mistwood
-m60_45_36_20 Limveld: South Mistwood (Crater)
-m60_45_36_30 Limveld: Southeast Rotted Woods (Rotted Woods)
-m60_45_36_50 Limveld: South Mistwood (Noklateo)
-m60_45_37_00 Limveld: Central Mistwood
-m60_45_37_20 Limveld: Central Mistwood (Crater)
-m60_45_37_30 Limveld: Northeast Rotted Woods (Rotted Woods)
-m60_45_37_50 Limveld: Central Mistwood (Noklateo)
-m60_45_38_00 Limveld: Road to Third Church
-m60_45_38_20 Limveld: Road to Third Church (Crater)
-m60_45_38_30 Limveld: Road to Third Church (Rotted Woods)
-m60_45_38_50 Limveld: Road to Third Church (Noklateo)
-m60_45_39_00 Limveld: Summonwater
-m60_45_39_20 Limveld: Summonwater (Crater)
-m60_45_39_30 Limveld: Summonwater (Rotted Woods)
-m60_45_39_50 Limveld: Summonwater (Noklateo)
+m60_10_09_02 Limveld - East
+m60_10_09_12 Limveld - East (Mountaintop)
+m60_10_09_22 Limveld - East (Crater)
+m60_10_09_52 Limveld - East (Noklateo)
+m60_11_09_02 Limveld - West
+m60_11_09_22 Limveld - West (Crater)
+m60_11_09_32 Limveld - West (Rotted Woods)
+m60_11_09_52 Limveld - West (Noklateo)
+m60_21_18_01 Limveld - Southwest
+m60_21_18_11 Limveld - Southwest (Mountaintop)
+m60_21_18_21 Limveld - Southwest (Crater)
+m60_21_18_51 Limveld - Southwest (Noklateo)
+m60_21_19_01 Limveld - Northwest
+m60_21_19_11 Limveld - Northwest (Mountaintop)
+m60_21_19_21 Limveld - Northwest (Crater)
+m60_21_19_51 Limveld - Northwest (Noklateo)
+m60_22_18_01 Limveld - Southeast
+m60_22_18_21 Limveld - Southeast (Crater)
+m60_22_18_31 Limveld - Southeast (Rotted Woods)
+m60_22_18_51 Limveld - Southeast (Noklateo)
+m60_22_19_01 Limveld - Northeast
+m60_22_19_21 Limveld - Northeast (Crater)
+m60_22_19_31 Limveld - Northeast (Rotted Woods)
+m60_22_19_51 Limveld - Northeast (Noklateo)
+m60_42_36_00 Limveld - Southwest Corner, West Lake
+m60_42_36_10 Limveld - Southwest Corner, West Lake (Mountaintop)
+m60_42_36_20 Limveld - Southwest Corner, West Lake (Crater)
+m60_42_36_50 Limveld - Noklateo Inner Tier (Noklateo)
+m60_42_37_00 Limveld - Gatefront
+m60_42_37_10 Limveld - Gatefront (Mountaintop)
+m60_42_37_20 Limveld - Gatefront (Crater)
+m60_42_37_50 Limveld - Noklateo North Wall (Noklateo)
+m60_42_38_00 Limveld - Southwest Stormhill
+m60_42_38_10 Limveld - Southwest Mountaintop (Mountaintop)
+m60_42_38_20 Limveld - Southwest Stormhill (Crater)
+m60_42_38_50 Limveld - Southwest Stormhill (Noklateo)
+m60_42_39_00 Limveld - Northwest Corner
+m60_42_39_10 Limveld - Northwest Mountaintop (Mountaintop)
+m60_42_39_20 Limveld - Northwest Corner (Crater)
+m60_42_39_50 Limveld - Northwest Corner (Noklateo)
+m60_43_36_00 Limveld - Central Lake
+m60_43_36_10 Limveld - Central Lake (Mountaintop)
+m60_43_36_20 Limveld - Central Lake (Crater)
+m60_43_36_50 Limveld - Noklateo East Wall, West Lake (Noklateo)
+m60_43_37_00 Limveld - Castle
+m60_43_37_10 Limveld - Castle (Mountaintop)
+m60_43_37_20 Limveld - Castle (Crater)
+m60_43_37_50 Limveld - Noklateo Entrance (Noklateo)
+m60_43_38_00 Limveld - West Murkwater, Southeast Stormhill
+m60_43_38_10 Limveld - Southeast Mountaintop (Mountaintop)
+m60_43_38_20 Limveld - Southwest Crater (Crater)
+m60_43_38_50 Limveld - West Murkwater, Southeast Stormhill (Noklateo)
+m60_43_39_00 Limveld - West Saintsbridge
+m60_43_39_10 Limveld - Northeast Mountaintop (Mountaintop)
+m60_43_39_20 Limveld - Northwest Crater (Crater)
+m60_43_39_50 Limveld - West Saintsbridge (Noklateo)
+m60_44_36_00 Limveld - East Lake
+m60_44_36_20 Limveld - East Lake (Crater)
+m60_44_36_30 Limveld - Southwest Rotted Woods (Rotted Woods)
+m60_44_36_50 Limveld - East Lake (Noklateo)
+m60_44_37_00 Limveld - Castle Front
+m60_44_37_20 Limveld - Castle Front (Crater)
+m60_44_37_30 Limveld - Northwest Rotted Woods (Rotted Woods)
+m60_44_37_50 Limveld - East of Noklateo Entrance (Noklateo)
+m60_44_38_00 Limveld - East Murkwater
+m60_44_38_20 Limveld - Southeast Crater (Crater)
+m60_44_38_30 Limveld - East Murkwater (Rotted Woods)
+m60_44_38_50 Limveld - East Murkwater (Noklateo)
+m60_44_39_00 Limveld - Saintsbridge to Summonwater
+m60_44_39_20 Limveld - Northeast Crater (Crater)
+m60_44_39_30 Limveld - Saintsbridge to Summonwater (Rotted Woods)
+m60_44_39_50 Limveld - Saintsbridge to Summonwater (Noklateo)
+m60_45_36_00 Limveld - South Mistwood
+m60_45_36_20 Limveld - South Mistwood (Crater)
+m60_45_36_30 Limveld - Southeast Rotted Woods (Rotted Woods)
+m60_45_36_50 Limveld - South Mistwood (Noklateo)
+m60_45_37_00 Limveld - Central Mistwood
+m60_45_37_20 Limveld - Central Mistwood (Crater)
+m60_45_37_30 Limveld - Northeast Rotted Woods (Rotted Woods)
+m60_45_37_50 Limveld - Central Mistwood (Noklateo)
+m60_45_38_00 Limveld - Road to Third Church
+m60_45_38_20 Limveld - Road to Third Church (Crater)
+m60_45_38_30 Limveld - Road to Third Church (Rotted Woods)
+m60_45_38_50 Limveld - Road to Third Church (Noklateo)
+m60_45_39_00 Limveld - Summonwater
+m60_45_39_20 Limveld - Summonwater (Crater)
+m60_45_39_30 Limveld - Summonwater (Rotted Woods)
+m60_45_39_50 Limveld - Summonwater (Noklateo)
